@@ -1,4 +1,9 @@
 texto ficheiro texto ficheiro 3 
 
+<h2>Bebidas</h2>
 
-sopa de macaco
+<ul>
+	<li>Coffe</li>
+	<li>Tea</li>
+	<li>Milk</li>
+</ul>
